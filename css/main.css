@@ -1,0 +1,49 @@
+.banner{
+	background-image: url(../img/creamy.jpg); 
+	width: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+}
+.titulo{
+	color: #FBF9C8;
+	margin-top:250px;
+
+}
+nav ul li{
+	list-style: none;
+	overflow-y: auto;
+}
+.navbar-default {
+    background-color: red;
+    border-color: red;
+    margin-bottom: 0px;
+}
+.crema{
+	width: 100%;
+	padding:2%;
+	text-align: center;
+	color: red;
+}
+.rojo{
+	color: #E3FE91;
+	text-align: center;
+}
+.opacity{
+	opacity: 0.5;
+	background-color:black;
+}
+.rojo1{
+	background-color: red;
+}
+.crema1{
+	background-color: #E3FE91;
+}
+.ice{
+	width: 493px;
+}
+.ico{
+	background-color: #E3FE91;
+}
