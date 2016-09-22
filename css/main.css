@@ -7,12 +7,16 @@
 	background-size: cover;
 	height: 500px;
 }
+.container-fluid{
+	background-color: rgba(0,0,0, 0.5);
+	background-size: cover;
+	height: 500px;
+}
 .titulo{
 	color: #F9FCD4;
 	margin-top:250px;
 	font-size: 50px;
 	font-family: "Merriweather";
-
 }
 h5{
 	color: #F9FCD4;
@@ -45,11 +49,6 @@ nav ul li{
 	padding: 40px;
 	font-family: "Merriweather";
 }
-.trans{
-	background-color: rgba(0,0,0,0.5);
-	background-position: center;
-	background-size: cover;
-}
 .rojo1{
 	background-color: red;
 }
@@ -62,6 +61,9 @@ nav ul li{
 .ico{
 	background-color: #F9FCD4;
 	font-family: "Merriweather";
+}
+.iconos{
+	text-align: center;
 }
 .fa{
 	color: red;
