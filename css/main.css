@@ -1,16 +1,23 @@
+
 .banner{
 	background-image: url(../img/creamy.jpg); 
 	width: 100%;
-	background-position: center center;
+	background-position: center;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-size: cover;
 	height: 500px;
 }
 .titulo{
-	color: #FBF9C8;
+	color: #F9FCD4;
 	margin-top:250px;
+	font-size: 50px;
+	font-family: "Merriweather";
 
+}
+h5{
+	color: #F9FCD4;
+	padding: 10px;
+	font-family: "Merriweather";
 }
 nav ul li{
 	list-style: none;
@@ -21,29 +28,52 @@ nav ul li{
     border-color: red;
     margin-bottom: 0px;
 }
+.navbar-default .navbar-nav>li>a {
+    color: #F9FCD4;
+}
+.navbar-default .navbar-brand {
+    color: #F9FCD4;
+}
 .crema{
-	width: 100%;
 	padding:2%;
 	text-align: center;
 	color: red;
 }
 .rojo{
-	color: #E3FE91;
+	color: #F9FCD4;
 	text-align: center;
+	padding: 40px;
+	font-family: "Merriweather";
 }
-.opacity{
-	opacity: 0.5;
-	background-color:black;
+.trans{
+	background-color: rgba(0,0,0,0.5);
+	background-position: center;
+	background-size: cover;
 }
 .rojo1{
 	background-color: red;
 }
 .crema1{
-	background-color: #E3FE91;
+	background-color: #F9FCD4;
 }
 .ice{
-	width: 493px;
+	width: 520px;
 }
 .ico{
-	background-color: #E3FE91;
+	background-color: #F9FCD4;
+	font-family: "Merriweather";
+}
+.fa{
+	color: red;
+	font-size: 150px;
+}
+.caja{
+	padding: 40px; 
+	color: red;
+}
+footer{
+	background-color: red;
+	color: #F9FCD4;
+	padding: 15px;
+	font-family: "Merriweather";
 }
